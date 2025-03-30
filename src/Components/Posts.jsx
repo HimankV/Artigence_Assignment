@@ -120,7 +120,7 @@ export default function Posts() {
       {/* User List */}
       <div
         style={{
-          flex: 1, // Allow the user list to grow and take available space
+          flex: 1,
           display: "flex",
           flexDirection: "column",
           alignItems: "center", // Center the cards horizontally
