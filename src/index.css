@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "HelveticaNeue";
+  src: url(./assets/HELVETICA_NEUE/HelveticaNeue-Medium.otf);
+}
