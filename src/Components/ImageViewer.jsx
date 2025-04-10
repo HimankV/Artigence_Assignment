@@ -77,7 +77,7 @@ const ImageViewer = () => {
   return (
     <div className="flex flex-col h-screen">
       {/* Navbar */}
-      <div className="bg-blue-800 h-[50px] w-full text-black flex items-center justify-start px-4">
+      <div className="bg-red-600 h-[50px] w-full text-black flex items-center justify-start px-4">
         <span></span>
       </div>
 
